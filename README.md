@@ -6,3 +6,5 @@ The challenge required the python module to return the following
 * The number of water points that are functional,
 * The number of water points per community,
 * The rank for each community by the percentage of broken water points.
+# Set Up
+Run the solution.py file while installing required modules
